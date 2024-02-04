@@ -36,10 +36,10 @@ const SignupForm = () => {
   return (
     <Form {...form}>
       <div className="w-420 flex-center flex-col p-8 sm:p-0 transition-all ">
-        <img src="/assets/images/popyeg.png" alt="logo" />
+        <img src="/assets/images/kiroku-logo.svg" alt="logo" />
         <h2 className="h3-bold  pt-5 sm:pt-12">Create a new account</h2>
         <p className="text-light-3 small-medium md:base-regular mt-2">
-          To use POPYEG, please enter your details
+          To use KIROKU, please enter your details
         </p>
 
         <form
